@@ -1,0 +1,18 @@
+SMAP
+faculty_005ftakeAttendance_jsp.java
+JSP
+*S JSP
+*F
++ 0 faculty_takeAttendance.jsp
+faculty_takeAttendance.jsp
++ 1 head.html
+head.html
++ 2 faculty_header.jsp
+faculty_header.jsp
+*L
+1,8:50
+1#1,30:58
+8#0,4:88
+1#2,33:92
+11#0,4:125
+*E

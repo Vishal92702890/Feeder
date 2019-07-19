@@ -1,0 +1,28 @@
+SMAP
+admin_005fviewAllBranches_jsp.java
+JSP
+*S JSP
+*F
++ 0 admin_viewAllBranches.jsp
+admin_viewAllBranches.jsp
++ 1 head.html
+head.html
++ 2 admin_header.html
+admin_header.html
+*L
+1,6:52
+6:57,9
+7,4:66
+1#1,30:70
+10#0,5:100
+1#2,64:105
+14#0,11:169
+25,5:181
+29,2:186
+31,2:188,3
+33,2:194
+35,3:197
+37,5:200
+42,2:206
+43,8:208
+*E
